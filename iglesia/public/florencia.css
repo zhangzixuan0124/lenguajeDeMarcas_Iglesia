@@ -1,0 +1,41 @@
+@charset "UTF-8";
+body {
+  background-color: hsl(67, 10%, 75%);
+ 
+  
+  
+}
+
+h1 {
+  color: hsl(240, 65%, 25%);
+  font-weight: 900;
+ 
+  text-align: right;
+  
+}
+
+h2 {
+  
+  background-color: hsl(68, 30%, 30%);
+  color: white;
+}
+
+p.center {
+  text-align: center;
+}
+
+img.left {
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+img.right {
+  float: right;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+
+
+
